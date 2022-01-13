@@ -1,0 +1,5 @@
+//DATES
+    date.getDay() <-- to get dates (specific number)
+    date.getMonth() <-- gets months
+    const currentDateTime = newDate.
+    Date.now() <-- gives date in milliseconds 
