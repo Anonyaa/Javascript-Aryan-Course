@@ -1,0 +1,5 @@
+- http is less secure, but they're both good
+- sometimes you will be required to use http instead
+- the require http or https has to line up with the get.http(s)
+
+
